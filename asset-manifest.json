@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DemoClothesWeb/static/css/main.3773795a.css",
+    "main.js": "/DemoClothesWeb/static/js/main.0afa25e8.js",
+    "static/js/453.154b2bbe.chunk.js": "/DemoClothesWeb/static/js/453.154b2bbe.chunk.js",
+    "index.html": "/DemoClothesWeb/index.html",
+    "main.3773795a.css.map": "/DemoClothesWeb/static/css/main.3773795a.css.map",
+    "main.0afa25e8.js.map": "/DemoClothesWeb/static/js/main.0afa25e8.js.map",
+    "453.154b2bbe.chunk.js.map": "/DemoClothesWeb/static/js/453.154b2bbe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3773795a.css",
+    "static/js/main.0afa25e8.js"
+  ]
+}
