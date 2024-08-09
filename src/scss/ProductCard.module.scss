@@ -1,0 +1,39 @@
+.card img {
+  height: 80%;
+  width: 100%;
+}
+.title {
+  text-align: center;
+
+  color: black;
+}
+.a {
+  text-decoration: none;
+}
+.option {
+  opacity: 0;
+  position: absolute;
+  display: flex;
+  width: 90%;
+  justify-content: space-between;
+  align-items: center;
+  top: 150px;
+  transition: 0.5s;
+}
+.card {
+  position: relative;
+}
+.card:hover .option {
+  display: block;
+  position: absolute;
+  display: flex;
+  width: 90%;
+  justify-content: space-between;
+  align-items: center;
+  top: 150px;
+  opacity: 0.6;
+  transform: translateY(-10px);
+}
+.card svg:hover {
+  fill: black;
+}

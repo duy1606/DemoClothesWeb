@@ -1,0 +1,24 @@
+.icon {
+  border: 1px solid black;
+  border-radius: 50%;
+  height: 60px;
+  width: 60px;
+  overflow: hidden;
+}
+.icon img {
+  width: 96%;
+  height: 96%;
+  object-fit: cover;
+  object-position: center;
+}
+.policy {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.title {
+  font-weight: bold;
+}
+.root {
+  margin-top: 130px;
+}
